@@ -1,11 +1,4 @@
-# project-euler
-Hackerrank project euler solutions in Python.
-
-
-# HackerRank Daily DSA Practice with Python
-
-![HackerRank Logo](logo.png) 
-Welcome to my DSA (Data Structures and Algorithms) practice repository on HackerRank using Python! 🚀
+## DSA solutions in Python.
 
 ## About
 
