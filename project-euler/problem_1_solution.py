@@ -1,6 +1,5 @@
 '''
-question link https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem?isFullScreen=true
-
+Question link [Project Euler Problem 1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem?isFullScreen=true)
 n = 10
 n3 = (n-1)//3 = (10-1)//3 = 3
 s3 = 3*(1+2+3)
