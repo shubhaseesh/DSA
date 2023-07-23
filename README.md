@@ -49,6 +49,6 @@ Contributions are welcome! If you'd like to contribute to this repository by add
 
 If you have any questions, suggestions, or just want to connect, you can find me on:
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/shubhaseesh-kumar-91749169/)
+- LinkedIn: [My LinkedIn Profile URL](https://www.linkedin.com/in/shubhaseesh-kumar-91749169/)
 
 Happy coding! 💻✨
