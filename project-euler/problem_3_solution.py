@@ -5,6 +5,7 @@ Question link [Project Euler Problem 3](https://www.hackerrank.com/contests/proj
 #!/bin/python3
 import sys
 
+
 def is_prime(n):
     # returns True if n is prime else returns False
     if n < 2:
@@ -19,6 +20,7 @@ def is_prime(n):
             return False
         i += 1
     return True
+
 
 def solution(n):
     max_prime = 0

@@ -21,7 +21,7 @@ def solution(n):
         if c % 2 == 0 and c < n:
             s += c
         a = b
-        b = c 
+        b = c
     return s
 
 
@@ -29,4 +29,3 @@ t = int(input().strip())
 for a0 in range(t):
     n = int(input().strip())
     print(solution(n))
-
