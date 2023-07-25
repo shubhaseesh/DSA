@@ -12,7 +12,7 @@ import sys
 
 def nth_prime(n):
     arr = [1]*(n*11)
-    arr[0] = arr[1] = 1
+    arr[0] = arr[1] = 0
     i = 3
     prime_count = 0
     for j in range(2, len(arr)):
