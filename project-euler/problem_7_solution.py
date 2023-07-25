@@ -8,6 +8,8 @@ Question link[Problem 7](https://www.hackerrank.com/contests/projecteuler/challe
 #!/bin/python3
 
 import sys
+
+
 def nth_prime(n):
     arr = [1]*(n*11)
     arr[0] = arr[1] = 1
@@ -21,8 +23,7 @@ def nth_prime(n):
             for k in range(j*j, len(arr), j):
                 arr[k] = 0
     return None
-        
-    
+
 
 t = int(input().strip())
 for a0 in range(t):
