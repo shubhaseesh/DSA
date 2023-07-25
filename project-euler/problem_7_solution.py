@@ -6,7 +6,6 @@ Question link[Problem 7](https://www.hackerrank.com/contests/projecteuler/challe
 
 
 #!/bin/python3
-
 import sys
 
 
