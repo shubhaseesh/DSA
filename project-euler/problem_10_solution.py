@@ -6,7 +6,7 @@ Question link [Project Euler Problem 10](https://www.hackerrank.com/contests/pro
 
 import sys
 
-
+# Todo optimise 
 def sum_primes(n):
     s = 0
     arr = [1]*(n+1)
